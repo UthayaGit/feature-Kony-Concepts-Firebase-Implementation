@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441036642184",
+    "firebase_url": "https://abcdef-97c16.firebaseio.com",
+    "project_id": "abcdef-97c16",
+    "storage_bucket": "abcdef-97c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441036642184:android:27902c4972a40d58d68c3d",
+        "android_client_info": {
+          "package_name": "ae.damanhealth.daman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441036642184-6grsa883fc3mu1epk3ut86omsl2p10i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhGHj2pYBX1z1HhHe7liCU8kaQmgolnZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441036642184-6grsa883fc3mu1epk3ut86omsl2p10i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
